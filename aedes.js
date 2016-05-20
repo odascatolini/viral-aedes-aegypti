@@ -54,7 +54,7 @@ function getCookie(cname) {
      for (var i=0; i<3; i++) {
         setTimeout(function(){
 
-          var mosquito = $('<a href="http://combateaedes.saude.gov.br/"' +
+          var mosquito = $('<a href="http://www.aetrapp.org/"' +
             ' target="_blank" class="aegypti flyAE"' +
             ' id="aegypti'+i+'" style="top:-90px"></a>')
             .appendTo(document.body);
